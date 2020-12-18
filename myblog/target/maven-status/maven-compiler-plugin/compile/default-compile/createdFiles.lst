@@ -1,0 +1,10 @@
+com\informatorio\myblog\MyblogApplication.class
+com\informatorio\myblog\repository\CommentRepository.class
+com\informatorio\myblog\controller\PostController.class
+com\informatorio\myblog\controller\CommentController.class
+com\informatorio\myblog\repository\PostRepository.class
+com\informatorio\myblog\controller\UserController.class
+com\informatorio\myblog\model\Comment.class
+com\informatorio\myblog\repository\UserRepository.class
+com\informatorio\myblog\model\Post.class
+com\informatorio\myblog\model\User.class
